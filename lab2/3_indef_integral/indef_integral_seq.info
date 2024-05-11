@@ -1,0 +1,5 @@
+# Indefinite integral version sequential
+data indef_integral_seq.dat
+N 100001
+XMAX 1.000000
+size 1

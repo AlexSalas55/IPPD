@@ -1,0 +1,5 @@
+# Indefinite integral version parallel
+data indef_integral_par.dat
+N 100000
+XMAX 1.000000
+size 4
